@@ -1,0 +1,19 @@
+CRITICAL:root:serious issue with code ,need to exit
+ERROR:root:another error
+WARNING:root:file already exists,overwriting
+WARNING:root:data directory already exists
+CRITICAL:root:serious issue with code ,need to exit
+ERROR:root:another error
+WARNING:root:file already exists,overwriting
+WARNING:root:data directory already exists
+CRITICAL:root:serious issue with code ,need to exit
+ERROR:root:another error
+WARNING:root:file already exists,overwriting
+WARNING:root:data directory already exists
+CRITICAL:root:serious issue with code ,need to exit
+ERROR:root:another error
+WARNING:root:file already exists,overwriting
+WARNING:root:data directory already exists
+CRITICAL:root:serious issue with code ,need to exit
+ERROR:root:another error
+WARNING:root:file already exists,overwriting
