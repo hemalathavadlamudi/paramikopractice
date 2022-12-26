@@ -44,3 +44,11 @@ WARNING:root:directory already exists
 CRITICAL:root:serious issue
 ERROR:root:another error
 WARNING:root:exit the program
+WARNING:root:directory already exists
+CRITICAL:root:serious issue
+ERROR:root:another error
+WARNING:root:exit the program
+WARNING:root:directory already exists
+CRITICAL:root:serious issue
+ERROR:root:another error
+WARNING:root:exit the program
